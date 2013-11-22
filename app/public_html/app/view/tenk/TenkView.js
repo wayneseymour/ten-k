@@ -1,4 +1,4 @@
-Ext.define('EnhancementLog.view.enhancement.EnhancementGrid', {
+Ext.define('Tenk.view.tenk.TenkView', {
     extend: 'Ext.grid.Panel',
     alias: 'widget.EnhancementGrid',
     title: 'System Enhancements',
